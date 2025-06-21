@@ -1,16 +1,48 @@
-## Hi there 👋
+## 👋 Hi, I'm Chana Fridman
 
-<!--
-**chanaFridman/chanaFridman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with a strong systems-oriented mindset, rapid learning abilities, and deep understanding of both code and system architecture. Quickly integrates into existing projects and efficiently decipher.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=csharp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![HTML](https://skillicons.dev/icons?i=html5) ![CSS](https://skillicons.dev/icons?i=css3)
+
+![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![DynamoDB](https://skillicons.dev/icons?i=dynamodb)
+
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Bitbucket](https://skillicons.dev/icons?i=bitbucket) ![Postman](https://skillicons.dev/icons?i=postman) ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Machine Learning](https://skillicons.dev/icons?i=ml)
+
+![VS](https://skillicons.dev/icons?i=vs) ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=intellij) ![PyCharm](https://skillicons.dev/icons?i=pycharm)
+
+
+## 📊 GitHub Stats
+![Chana's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanaFridman&show_icons=true&theme=radical)
+
+🏫 School Management System (https://github.com/chanaFridman/school-management-client)
+- Comprehensive school management platform with client-server architecture
+- Features: Student & teacher management, grade tracking, schedule management
+- Built with React 18 (client), Node.js/Express (server), MongoDB
+- Supports admin, teacher, and student roles with different permission levels
+- Server Repository: https://github.com/chanaFridman/school-management-server
+
+📋 Inquiry Management System (https://github.com/chanaFridman/java-inquiry-management-system)
+- Java-based system for handling customer inquiries
+- Features: Real-time client-server communication, inquiry tracking
+- Supports request, question, and complaint types
+- Built with Java 11, Maven
+
+🍳 Recipe App (https://github.com/chanaFridman/recipe-app)
+- Modern recipe management application with Material UI
+- Features: Recipe management, user authentication, favorites
+- Built with React 18, Redux Toolkit, React Hook Form
+
+📦 3 Layer Inventory Management System (https://github.com/chanaFridman/inventory-management-3layer)
+- Desktop application demonstrating 3-tier architecture
+- Built with C# .NET
+
+## 🤝 Let's Connect
+📧 Email: [chana.fridman7@gmail.com](mailto:chana.fridman7@gmail.com)
+📱 Phone: 0583272665
+🌐 GitHub: [https://github.com/chanaFridman](https://github.com/chanaFridman)
+
+
