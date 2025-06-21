@@ -6,7 +6,7 @@ Full Stack Developer with a strong systems-oriented mindset, rapid learning abil
 
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
-![C#](https://skillicons.dev/icons?i=csharp)
+![C#](https://skillicons.dev/icons?i=cs)
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
@@ -29,7 +29,7 @@ Full Stack Developer with a strong systems-oriented mindset, rapid learning abil
 
 ![VS](https://skillicons.dev/icons?i=visualstudio)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![IntelliJ](https://skillicons.dev/icons?i=intellij)
+![IntelliJ](https://skillicons.dev/icons?i=idea)
 ![PyCharm](https://skillicons.dev/icons?i=pycharm)
 
 
