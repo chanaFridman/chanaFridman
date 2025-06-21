@@ -4,8 +4,6 @@ Full Stack Developer with a strong systems-oriented mindset, rapid learning abil
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=csharp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![HTML](https://skillicons.dev/icons?i=html5) ![CSS](https://skillicons.dev/icons?i=css3)
 
 ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![DynamoDB](https://skillicons.dev/icons?i=dynamodb)
