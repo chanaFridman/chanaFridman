@@ -4,13 +4,33 @@ Full Stack Developer with a strong systems-oriented mindset, rapid learning abil
 
 ## 🛠️ Tech Stack
 
-![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=csharp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![HTML](https://skillicons.dev/icons?i=html5) ![CSS](https://skillicons.dev/icons?i=css3)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C#](https://skillicons.dev/icons?i=csharp)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![DynamoDB](https://skillicons.dev/icons?i=dynamodb)
+![React](https://skillicons.dev/icons?i=react)
+![Nodejs](https://skillicons.dev/icons?i=nodejs)
+![Dotnet](https://skillicons.dev/icons?i=dotnet)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![DynamoDB](https://skillicons.dev/icons?i=dynamodb)
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Bitbucket](https://skillicons.dev/icons?i=bitbucket) ![Postman](https://skillicons.dev/icons?i=postman) ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Machine Learning](https://skillicons.dev/icons?i=ml)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Bitbucket](https://skillicons.dev/icons?i=bitbucket)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
 
-![VS](https://skillicons.dev/icons?i=vs) ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=intellij) ![PyCharm](https://skillicons.dev/icons?i=pycharm)
+![VS](https://skillicons.dev/icons?i=visualstudio)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![IntelliJ](https://skillicons.dev/icons?i=intellij)
+![PyCharm](https://skillicons.dev/icons?i=pycharm)
 
 
 ## 📊 GitHub Stats
