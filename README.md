@@ -35,6 +35,7 @@ Full Stack Developer with a strong systems-oriented mindset, rapid learning abil
 
 ## 📊 GitHub Stats
 ![Chana's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanaFridman&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanaFridman&layout=compact&langs_count=8&theme=tokyonight)
 
 🏫 School Management System (https://github.com/chanaFridman/school-management-client)
 - Comprehensive school management platform with client-server architecture
